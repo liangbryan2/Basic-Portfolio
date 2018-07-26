@@ -137,9 +137,7 @@ a:visited {
     padding-top: 10px;
 }
 
-input[type=text],
-select,
-textarea {
+input[type=text], textarea {
     width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
